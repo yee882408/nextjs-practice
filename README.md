@@ -7,3 +7,4 @@ https://nextjs-practice-three-gules.vercel.app/
 
 ### 主要使用技術
 - Next.js製作
+- Mongodb的Atlas存放資料
